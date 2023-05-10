@@ -1,0 +1,153 @@
+[26-Aug-2022 12:29:41 UTC] PHP Notice:  Undefined index: id in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 6
+[26-Aug-2022 12:29:41 UTC] PHP Notice:  Undefined index: nick in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 7
+[26-Aug-2022 12:29:41 UTC] PHP Notice:  Undefined index: ip in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 8
+[26-Aug-2022 12:52:28 UTC] PHP Notice:  Undefined index: id in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 6
+[26-Aug-2022 12:52:28 UTC] PHP Notice:  Undefined index: nick in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 7
+[26-Aug-2022 12:52:28 UTC] PHP Notice:  Undefined index: ip in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 8
+[26-Aug-2022 12:53:13 UTC] PHP Notice:  Undefined index: id in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 6
+[26-Aug-2022 12:53:13 UTC] PHP Notice:  Undefined index: nick in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 7
+[26-Aug-2022 12:53:13 UTC] PHP Notice:  Undefined index: ip in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 8
+[26-Aug-2022 13:04:32 UTC] PHP Notice:  Undefined index: id in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 6
+[26-Aug-2022 13:04:32 UTC] PHP Notice:  Undefined index: nick in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 7
+[26-Aug-2022 13:04:32 UTC] PHP Notice:  Undefined index: ip in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 8
+[26-Aug-2022 13:14:51 UTC] PHP Notice:  Undefined index: id in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 6
+[26-Aug-2022 13:14:51 UTC] PHP Notice:  Undefined index: nick in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 7
+[26-Aug-2022 13:14:51 UTC] PHP Notice:  Undefined index: ip in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 8
+[26-Aug-2022 13:14:51 UTC] PHP Warning:  fopen(admin/chauthebao.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 9
+[26-Aug-2022 13:14:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 10
+[26-Aug-2022 13:14:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 11
+[26-Aug-2022 13:17:43 UTC] PHP Notice:  Undefined index: sdt in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 4
+[26-Aug-2022 13:17:43 UTC] PHP Notice:  Undefined index: pass in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 5
+[26-Aug-2022 13:17:43 UTC] PHP Notice:  Undefined index: id in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 6
+[26-Aug-2022 13:17:43 UTC] PHP Notice:  Undefined index: nick in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 7
+[26-Aug-2022 13:17:43 UTC] PHP Notice:  Undefined index: ip in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 8
+[26-Aug-2022 13:17:43 UTC] PHP Warning:  fopen(admin/chauthebao.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 9
+[26-Aug-2022 13:17:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 10
+[26-Aug-2022 13:17:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 11
+[26-Aug-2022 13:17:51 UTC] PHP Notice:  Undefined index: sdt in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 4
+[26-Aug-2022 13:17:51 UTC] PHP Notice:  Undefined index: pass in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 5
+[26-Aug-2022 13:17:51 UTC] PHP Notice:  Undefined index: id in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 6
+[26-Aug-2022 13:17:51 UTC] PHP Notice:  Undefined index: nick in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 7
+[26-Aug-2022 13:17:51 UTC] PHP Notice:  Undefined index: ip in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 8
+[26-Aug-2022 13:17:51 UTC] PHP Warning:  fopen(admin/chauthebao.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 9
+[26-Aug-2022 13:17:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 10
+[26-Aug-2022 13:17:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/login.php on line 11
+[27-Aug-2022 02:56:58 UTC] PHP Warning:  include_once(_config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:56:58 UTC] PHP Warning:  include_once(): Failed opening '_config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:56:58 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:56:58 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:56:58 UTC] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 02:56:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 02:58:03 UTC] PHP Warning:  include_once(_config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:58:03 UTC] PHP Warning:  include_once(): Failed opening '_config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:58:03 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:58:03 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:58:03 UTC] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 02:58:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 02:58:06 UTC] PHP Warning:  include_once(_config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:58:06 UTC] PHP Warning:  include_once(): Failed opening '_config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:58:06 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:58:06 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:58:06 UTC] PHP Warning:  file_get_contents(lock_ip.txt): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 10
+[27-Aug-2022 02:58:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function detect_number() in /home/arand03u6yc6/demo.gazrena.vn/facebook.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 16
+[27-Aug-2022 02:58:10 UTC] PHP Warning:  include_once(_config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:58:10 UTC] PHP Warning:  include_once(): Failed opening '_config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:58:10 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:58:10 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:58:10 UTC] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 02:58:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 02:58:15 UTC] PHP Warning:  include_once(_config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:58:15 UTC] PHP Warning:  include_once(): Failed opening '_config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 2
+[27-Aug-2022 02:58:15 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:58:15 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 02:58:15 UTC] PHP Warning:  file_get_contents(lock_ip.txt): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 10
+[27-Aug-2022 02:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function detect_number() in /home/arand03u6yc6/demo.gazrena.vn/facebook.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 16
+[27-Aug-2022 09:59:32 Asia/Ho_Chi_Minh] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 09:59:32 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 09:59:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 09:59:32 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(lock_ip.txt): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 10
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name_facebook in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 42
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  fopen(admin/): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 44
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  filesize(): stat failed for admin/ in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 45
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  fread() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 45
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 46
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  fopen(admin/): failed to open stream: Is a directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 51
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 52
+[27-Aug-2022 09:59:33 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 53
+[27-Aug-2022 10:00:56 Asia/Ho_Chi_Minh] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 10:00:56 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 10:00:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 10:00:56 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 60
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 3
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Warning:  fopen(admin/chauthebao.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 44
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Warning:  filesize(): stat failed for admin/chauthebao.php in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 45
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Warning:  fread() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 45
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 46
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Warning:  fopen(admin/chauthebao.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 51
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 52
+[27-Aug-2022 10:01:13 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 53
+[27-Aug-2022 10:04:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 10:04:14 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 10:04:20 Asia/Ho_Chi_Minh] PHP Warning:  fopen(admin/chauthebao.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 43
+[27-Aug-2022 10:04:20 Asia/Ho_Chi_Minh] PHP Warning:  filesize(): stat failed for admin/chauthebao.php in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 44
+[27-Aug-2022 10:04:20 Asia/Ho_Chi_Minh] PHP Warning:  fread() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 44
+[27-Aug-2022 10:04:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 45
+[27-Aug-2022 10:04:20 Asia/Ho_Chi_Minh] PHP Warning:  fopen(admin/chauthebao.php): failed to open stream: No such file or directory in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 50
+[27-Aug-2022 10:04:20 Asia/Ho_Chi_Minh] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 51
+[27-Aug-2022 10:04:20 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 52
+[27-Aug-2022 10:05:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 10:05:33 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 10:05:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 45
+[27-Aug-2022 12:44:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:44:36 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:45:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:45:48 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:46:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:46:02 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:46:09 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:49:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:49:25 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:50:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:50:22 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:50:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:50:36 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:50:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:50:49 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:51:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:51:05 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:55:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:55:08 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:55:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 45
+[27-Aug-2022 12:55:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:55:14 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:56:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:56:26 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:56:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:56:59 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:58:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:58:46 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:58:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:58:52 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:59:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 23
+[27-Aug-2022 12:59:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 12:59:34 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 13:06:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 13:06:56 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 13:41:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 13:41:45 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 15:07:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 15:07:54 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 15:09:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: c in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[27-Aug-2022 15:09:28 Asia/Ho_Chi_Minh] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/arand03u6yc6/demo.gazrena.vn/facebook.php on line 59
+[08-Sep-2022 12:54:16 UTC] PHP Warning:  file_get_contents(chauthebao.txt): failed to open stream: No such file or directory in /home/arand03u6yc6/demo4.gazrena.vn/filechinhsuaacc.php on line 15

